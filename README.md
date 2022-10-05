@@ -8,7 +8,7 @@ I've been Learning code for the past months. I started with Python, but have rea
 
 * 🌍  I'm based in London
 * ✉️  You can contact me at [Nelsonamendoza99@gmail.com](mailto:Nelsonamendoza99@gmail.com)
-* 🚀  I'm currently working on [Selfridges & Co.](http://www.selfridges.com/)
+* 🚀  I'm currently not working as full time developer
 * 🧠  I'm learning Javascript and React.js
 * 🤝  I'm open to collaborating on Any Project where I can be useful
 
